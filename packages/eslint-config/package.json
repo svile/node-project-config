@@ -18,9 +18,5 @@
   "devDependencies": {
     "eslint": "8.24.0",
     "typescript": "4.8.4"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/svile",
-    "access": "public"
   }
 }

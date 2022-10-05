@@ -5,9 +5,5 @@
   "main": "index.js",
   "files": [
     "index.js"
-  ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/svile",
-    "access": "public"
-  }
+  ]
 }
