@@ -1,9 +1,24 @@
 {
   "name": "@svile/prettier-config",
+  "description": "Prettier configuration aimed to standardize Node package management.",
   "version": "0.1.0",
   "license": "MIT",
   "main": "index.js",
   "files": [
     "index.js"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svile/node-project-config.git"
+  },
+  "keywords": [
+    "node",
+    "project",
+    "config",
+    "prettier"
+  ],
+  "homepage": "https://github.com/svile/node-project-config#readme",
+  "bugs": {
+    "url": "https://github.com/svile/node-project-config/issues"
+  }
 }

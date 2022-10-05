@@ -1,5 +1,6 @@
 {
   "name": "@svile/eslint-config",
+  "description": "ESLint configuration aimed to standardize Node package management.",
   "version": "0.1.0",
   "license": "MIT",
   "main": "index.js",
@@ -18,5 +19,19 @@
   "devDependencies": {
     "eslint": "8.24.0",
     "typescript": "4.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svile/node-project-config.git"
+  },
+  "keywords": [
+    "node",
+    "project",
+    "config",
+    "eslint"
+  ],
+  "homepage": "https://github.com/svile/node-project-config#readme",
+  "bugs": {
+    "url": "https://github.com/svile/node-project-config/issues"
   }
 }
