@@ -14,8 +14,8 @@
   "devDependencies": {
     "@svile/prettier-config": "workspace:*",
     "@svile/eslint-config": "workspace:*",
-    "eslint": "^8.21.0",
-    "prettier": "^2.7.1",
+    "eslint": "8.24.0",
+    "prettier": "2.7.1",
     "typescript": "4.8.4"
   },
   "prettier": "@svile/prettier-config",
