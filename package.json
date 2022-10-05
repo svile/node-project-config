@@ -1,7 +1,8 @@
 {
-  "name": "@svile/node-config",
+  "name": "@svile/node-project-config",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
+  "private": false,
   "packageManager": "pnpm@7.13.1",
   "engines": {
     "npm": ">=8.0.0 <9.0.0",
@@ -12,12 +13,29 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@svile/prettier-config": "workspace:*",
-    "@svile/eslint-config": "workspace:*",
-    "eslint": "8.24.0",
-    "prettier": "2.7.1",
+    "@svile/eslint-config": "workspace:0.1.0",
+    "@svile/prettier-config": "workspace:0.1.0",
+    "eslint": "^8.24.0",
+    "prettier": "^2.7.1",
     "typescript": "4.8.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svile/node-project-config.git"
+  },
+  "keywords": [
+    "node",
+    "project",
+    "config",
+    "eslint",
+    "jest",
+    "prettier",
+    "typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/svile/node-project-config/issues"
+  },
+  "homepage": "https://github.com/svile/node-project-config/",
   "prettier": "@svile/prettier-config",
   "eslintConfig": {
     "extends": "@svile/eslint-config",
