@@ -3,7 +3,7 @@
   "extends": [
     "config:base"
   ],
-  "schedule": ["every monday"]
+  "schedule": ["every monday"],
   "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
