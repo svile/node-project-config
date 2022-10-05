@@ -1,11 +1,12 @@
 {
   "name": "@svile/typescript-config",
   "description": "Typescript configuration aimed to standardize Node package management.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "license": "MIT",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "tsconfig.json"
   ],
   "repository": {
     "type": "git",
