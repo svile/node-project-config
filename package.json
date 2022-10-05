@@ -13,8 +13,8 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@svile/eslint-config": "workspace:0.1.0",
-    "@svile/prettier-config": "workspace:0.1.0",
+    "@svile/eslint-config": "workspace:*",
+    "@svile/prettier-config": "workspace:*",
     "eslint": "^8.24.0",
     "prettier": "^2.7.1",
     "typescript": "4.8.4"
