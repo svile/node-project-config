@@ -6,9 +6,9 @@ importers:
     specifiers:
       '@svile/eslint-config': workspace:*
       '@svile/prettier-config': workspace:*
-      eslint: ^8.26.0
-      prettier: ^2.7.1
-      typescript: ^4.8.4
+      eslint: 8.26.0
+      prettier: 2.7.1
+      typescript: 4.8.4
     devDependencies:
       '@svile/eslint-config': link:packages/eslint-config
       '@svile/prettier-config': link:packages/prettier-config
@@ -20,9 +20,9 @@ importers:
     specifiers:
       '@typescript-eslint/eslint-plugin': ^5.36.1
       '@typescript-eslint/parser': ^5.36.1
-      eslint: ^8.24.0
+      eslint: 8.26.0
       eslint-config-prettier: ^8.5.0
-      typescript: ^4.8.4
+      typescript: 4.8.4
     dependencies:
       '@typescript-eslint/eslint-plugin': 5.38.0_2gbc7o7pu7zyaokxuchoql55by
       '@typescript-eslint/parser': 5.38.0_wyqvi574yv7oiwfeinomdzmc3m
