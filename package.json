@@ -6,7 +6,7 @@
   "packageManager": "pnpm@7.14.1",
   "engines": {
     "npm": ">=8.0.0 <9.0.0",
-    "node": ">=16.0.0 <17.0.0"
+    "node": "<19.0.0"
   },
   "scripts": {
     "format": "prettier --write 'packages/**/*.js'",
