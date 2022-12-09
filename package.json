@@ -1,6 +1,6 @@
 {
   "name": "@svile/node-project-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "private": false,
   "packageManager": "pnpm@7.18.0",
